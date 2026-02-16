@@ -105,7 +105,7 @@ export default function Hero() {
               <div className="relative bg-gradient-to-br from-gray-900 to-gray-800 p-6 rounded-3xl shadow-2xl">
                 <div className="bg-black p-4 rounded-2xl">
                   <img
-                    src="src\images\bebe.png"
+                    src="bebe.png"
                     alt="Radiografía de Noah"
                     className="relative w-full h-full object-cover rounded-xl opacity-90 hover:opacity-100 transition-opacity"
                     style={{
