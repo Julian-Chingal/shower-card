@@ -44,7 +44,7 @@ export default function Detalles() {
               <p className="text-gray-600 text-center text-lg">
                 22 de Febrero, 2025
               </p>
-              <p className="text-gray-500 text-center text-sm mt-2">Sábado</p>
+              <p className="text-gray-500 text-center text-sm mt-2">Domingo</p>
             </CardContent>
           </Card>
 
